@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <id>E101</id>
+    <name>aditi pathak</name>
+    <department>HR</department>
+  </employee>
+  <employee>
+    <id>E102</id>
+    <name>Sumit</name>
+    <department>Finance</department>
+  </employee>
+  
+  <employee>
+    <id>E103</id>
+    <name>Atul Ray</name>
+    <department>Computer Science</department>
+  </employee>
+  
+  <employee>
+    <id>E104</id>
+    <name>Aarav Dubey</name>
+    <department>noobie of the year</department>
+  </employee>
+  
+  <employee>
+    <id>E105</id>
+    <name>Shah Vansh</name>
+    <department>Sales</department>
+  </employee>
+  
+</employees>
+
